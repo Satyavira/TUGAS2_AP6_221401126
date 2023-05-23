@@ -4,6 +4,6 @@
 		"*.js": "javascript",
 		"ostream": "cpp",
 		"iostream": "cpp"
-	}
-	"editor.fontSize":19,
+	},
+	"editor.fontSize":19
 }
